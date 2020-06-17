@@ -55,7 +55,6 @@
              <tr>
                  <td>
                    <asp:Button ID="Button1" runat="server" Text="SIGN UP"  />
-                     <asp:Button ID="Button2" runat="server" Text="Deneme21.24" />
                  </td>
              </tr>
          </table>
