@@ -7,11 +7,11 @@
 // </otomatik üretildi>
 //------------------------------------------------------------------------------
 
-namespace FoodLabelBank
+namespace FoodLabelBank.WebForms
 {
 
 
-    public partial class WebForm3
+    public partial class WebForm1
     {
 
         /// <summary>
@@ -24,15 +24,6 @@ namespace FoodLabelBank
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// hfProductID denetimi.
-        /// </summary>
-        /// <remarks>
-        /// Otomatik üretilmiş alan.
-        /// Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.HiddenField hfProductID;
-
-        /// <summary>
         /// TextBox1 denetimi.
         /// </summary>
         /// <remarks>
@@ -42,15 +33,6 @@ namespace FoodLabelBank
         protected global::System.Web.UI.WebControls.TextBox TextBox1;
 
         /// <summary>
-        /// ddlcategories denetimi.
-        /// </summary>
-        /// <remarks>
-        /// Otomatik üretilmiş alan.
-        /// Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList ddlcategories;
-
-        /// <summary>
         /// Button1 denetimi.
         /// </summary>
         /// <remarks>
@@ -58,5 +40,14 @@ namespace FoodLabelBank
         /// Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Button1;
+
+        /// <summary>
+        /// FileUpload1 denetimi.
+        /// </summary>
+        /// <remarks>
+        /// Otomatik üretilmiş alan.
+        /// Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.FileUpload FileUpload1;
     }
 }
